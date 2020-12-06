@@ -6,4 +6,4 @@ In this project, you will have the ability to chat with others.This project uses
 1. Firestore functionalities (Querying,Adding)
 1. Material UI and icons
 1. More about hooks like `useState` and `useEffect`
-1. Deploying with firebase.
+1. Deploying with firebase.# Messenger-Clone-React
